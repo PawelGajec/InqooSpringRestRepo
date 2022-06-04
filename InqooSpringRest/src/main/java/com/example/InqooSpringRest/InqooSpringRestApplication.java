@@ -10,4 +10,5 @@ public class InqooSpringRestApplication {
 		SpringApplication.run(InqooSpringRestApplication.class, args);
 	}
 
+
 }
